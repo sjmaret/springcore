@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.reftypes;
+package com.example.spring.springcore.reftypes;
 
 public class Scores {
 	private Double maths;

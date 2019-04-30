@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.set;
+package com.example.spring.springcore.set;
 
 import java.util.Set;
 

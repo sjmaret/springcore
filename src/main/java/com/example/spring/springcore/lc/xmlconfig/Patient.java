@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.lc.xmlconfig;
+package com.example.spring.springcore.lc.xmlconfig;
 
 public class Patient {
 

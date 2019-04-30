@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore;
+package com.example.spring.springcore;
 
 public class Employee {
 

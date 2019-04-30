@@ -7,7 +7,7 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-	<bean name="customer" class="com.bharath.spring.springcore.map.Customer"
+	<bean name="customer" class="com.example.spring.springcore.map.Customer"
 		p:id="20">
 		<property name="products">
 			<map>

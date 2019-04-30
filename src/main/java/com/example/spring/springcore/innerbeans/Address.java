@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.innerbeans;
+package com.example.spring.springcore.innerbeans;
 
 public class Address {
 	

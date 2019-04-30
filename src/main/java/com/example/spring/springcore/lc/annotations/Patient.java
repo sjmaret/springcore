@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.lc.annotations;
+package com.example.spring.springcore.lc.annotations;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

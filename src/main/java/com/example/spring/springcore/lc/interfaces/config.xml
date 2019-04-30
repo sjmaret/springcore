@@ -6,6 +6,6 @@
     http://www.springframework.org/schema/beans/spring-beans.xsd
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
-	<bean class="com.bharath.spring.springcore.lc.interfaces.Patient"
+	<bean class="com.example.spring.springcore.lc.interfaces.Patient"
 		name="patient" p:id="123" />
 </beans>

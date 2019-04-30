@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.properties;
+package com.example.spring.springcore.properties;
 
 import java.util.Properties;
 

@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.list;
+package com.example.spring.springcore.list;
 
 import java.util.List;
 

@@ -7,10 +7,10 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-	<bean name="scores" class="com.bharath.spring.springcore.reftypes.Scores"
+	<bean name="scores" class="com.example.spring.springcore.reftypes.Scores"
 		p:maths="80" p:physics="90" p:chemistry="78" />
 
-	<bean name="student" class="com.bharath.spring.springcore.reftypes.Student" p:scores-ref="scores"/>
+	<bean name="student" class="com.example.spring.springcore.reftypes.Student" p:scores-ref="scores"/>
 		
 
 </beans>

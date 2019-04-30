@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore;
+package com.example.spring.springcore;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

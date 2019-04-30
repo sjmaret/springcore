@@ -8,10 +8,10 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-	<bean class="com.bharath.spring.springcore.constructorinjection.Address"
+	<bean class="com.example.spring.springcore.constructorinjection.Address"
 		name="address" p:hno="123" p:street="mira mesa" p:city="san diego" />
 
-	<bean class="com.bharath.spring.springcore.constructorinjection.Employee"
+	<bean class="com.example.spring.springcore.constructorinjection.Employee"
 		name="employee" c:id="123" c:address-ref="address"/>
 
 </beans>

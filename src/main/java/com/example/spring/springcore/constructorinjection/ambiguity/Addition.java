@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.constructorinjection.ambiguity;
+package com.example.spring.springcore.constructorinjection.ambiguity;
 
 public class Addition {
 	

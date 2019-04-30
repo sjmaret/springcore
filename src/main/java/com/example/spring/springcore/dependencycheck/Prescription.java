@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.dependencycheck;
+package com.example.spring.springcore.dependencycheck;
 
 import java.util.List;
 

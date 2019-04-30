@@ -8,7 +8,7 @@
     http://www.springframework.org/schema/context/spring-context.xsd">
 
 	<bean name="countriesAndLangs"
-		class="com.bharath.spring.springcore.properties.CountriesAndLanguages">
+		class="com.example.spring.springcore.properties.CountriesAndLanguages">
 		<property name="countryAndLangs">
 			<props>
 				<prop key="USA">English</prop>

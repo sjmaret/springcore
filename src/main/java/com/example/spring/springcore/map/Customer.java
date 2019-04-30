@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.map;
+package com.example.spring.springcore.map;
 
 import java.util.Map;
 

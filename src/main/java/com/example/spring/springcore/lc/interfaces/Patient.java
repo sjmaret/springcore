@@ -1,4 +1,4 @@
-package com.bharath.spring.springcore.lc.interfaces;
+package com.example.spring.springcore.lc.interfaces;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
